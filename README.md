@@ -26,3 +26,16 @@ Untuk menginstal dan menjalankan aplikasi ini, ikuti langkah-langkah berikut:
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/zakycahyohadi/iExplorer-flutter.git
+
+2. Masuk ke direktori proyek:
+   ```bash
+   cd iExplorer-flutter
+
+3. Instal dependensi:
+   ```bash
+   flutter pub get
+
+4. Jalankan aplikasi:
+   ```bash
+   flutter run
+
