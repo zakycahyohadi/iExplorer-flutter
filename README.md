@@ -1,29 +1,25 @@
-# iExplorer
+# iExplorer 🚀
 
-**iExplorer** adalah aplikasi yang dirancang untuk memberikan pengalaman pengguna yang mirip dengan antarmuka iPhone. Aplikasi ini dibangun menggunakan Flutter, menawarkan performa yang cepat dan antarmuka yang responsif.
+![iExplorer Logo](https://img.icons8.com/color/48/000000/explorer.png)  
+**iExplorer** adalah aplikasi yang dirancang untuk memberikan pengalaman pengguna yang mirip dengan antarmuka iPhone. Aplikasi ini dibangun menggunakan Flutter, menawarkan performa yang cepat dan antarmuka yang responsif. 🌟
 
-## Fitur
+## Fitur ✨
 
-- Desain antarmuka pengguna yang modern dan intuitif.
-- Navigasi yang mudah dengan tiga layar utama:
-  * **Splash**: Layar pembuka aplikasi.
-  * **Explore**: Layar utama untuk menjelajahi fitur.
-  * **Detail**: Layar untuk informasi lebih mendetail.
+- 📱 **Desain Modern**: Antarmuka pengguna yang elegan dan intuitif.
+- 🌐 **Navigasi Mudah**: Terdapat tiga layar utama:
+  * 💡 **Splash**: Layar pembuka aplikasi yang menarik.
+  * 🔍 **Explore**: Layar utama untuk menjelajahi berbagai fitur menarik.
+  * 📖 **Detail**: Layar untuk informasi lebih mendetail tentang konten.
 
-## Screenshot
+## Screenshot 📸
 
 Berikut adalah beberapa screenshot dari aplikasi iExplorer:
 
-1. **Splash Screen**
-   ![Splash Screen](Splash-screen.webp)
+| **Splash Screen** 🌅 | **Explore Screen** 🗺️ | **Detail Screen** 📄 |
+|----------------------|------------------------|-----------------------|
+| ![Splash Screen](Splash-screen.webp) | ![Explore Screen](Explore-screen.webp) | ![Detail Screen](Detail-screen.webp) |
 
-2. **Explore Screen**
-   ![Explore Screen](Explore-screen.webp)
-
-3. **Detail Screen**
-   ![Detail Screen](Detail-screen.webp)
-
-## Instalasi
+## Instalasi ⚙️
 
 Untuk menginstal dan menjalankan aplikasi ini, ikuti langkah-langkah berikut:
 
