@@ -1,4 +1,4 @@
-# iExplorer 🚀
+# iExplorer 📱🃟
 
 
 **iExplorer** adalah aplikasi yang dirancang untuk memberikan pengalaman pengguna yang mirip dengan antarmuka iPhone. Aplikasi ini dibangun menggunakan Flutter, menawarkan performa yang cepat dan antarmuka yang responsif. 🌟
