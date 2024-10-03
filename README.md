@@ -15,13 +15,13 @@
 Berikut adalah beberapa screenshot dari aplikasi iExplorer:
 
 1. **Splash Screen**
-   ![Splash Screen](Simulator Screenshot - iPhone 12 - 2024-10-03 at 07.58.48.webp)
+   ![Splash Screen](Splash-screen.webp)
 
 2. **Explore Screen**
-   ![Explore Screen](Simulator Screenshot - iPhone 12 - 2024-10-03 at 07.59.15.webp)
+   ![Explore Screen](Explore-screen.webp)
 
 3. **Detail Screen**
-   ![Detail Screen](Simulator Screenshot - iPhone 12 - 2024-10-03 at 08.09.01.webp)
+   ![Detail Screen](Detail-screen.webp)
 
 ## Instalasi
 
