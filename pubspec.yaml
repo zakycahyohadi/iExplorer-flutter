@@ -1,0 +1,33 @@
+name: aspen_apk
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0-216.1.beta
+
+dependencies:
+  path_provider: ^2.0.11
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1 # Pastikan untuk menambahkan flutter_svg jika Anda menggunakan SVG
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/vectors/ # Menambahkan path untuk ikon SVG
+
+
+
+  fonts:
+      - family: Hiatus
+        fonts:
+          - asset: assets/fonts/Hiatus.ttf
