@@ -1,6 +1,5 @@
 # iExplorer
 
-![iExplorer Logo](https://img.icons8.com/color/48/000000/explorer.png)  
 **iExplorer** adalah aplikasi yang dirancang untuk memberikan pengalaman pengguna yang mirip dengan antarmuka iPhone. Aplikasi ini dibangun menggunakan Flutter, menawarkan performa yang cepat dan antarmuka yang responsif.
 
 ## Fitur
